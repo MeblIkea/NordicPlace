@@ -1,0 +1,15 @@
+{
+  "contact": "Nordics Discord",
+  "templates": [
+    {
+      "name": "r/nordics",
+      "sources": [
+        "https://github.com/MeblIkea/NordicPlace/blob/main/1.png?raw=true"
+      ],
+      "x": 676,
+      "y": 267
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
