@@ -8,7 +8,15 @@
       ],
       "x": 304,
       "y": 132
-    } 
+    },
+    {
+      "name": "coat of arms",
+      "sources": [
+        "https://i.imgur.com/suZ2I6B.png"
+      ],
+      "x": 482,
+      "y": 200
+    }
   ],
   "whitelist": [],
   "blacklist": []
