@@ -14,8 +14,16 @@
       "sources": [
         "https://i.imgur.com/NHB2L3i.png"
       ],
-      "x": 307,
+      "x": 322,
       "y": 252
+    },
+    {
+      "name": "purple guy",
+      "sources": [
+        "https://i.imgur.com/v5l1uTZ.png"
+      ],
+      "x": 302,
+      "y": 251
     },
     {
       "name": "john dillermand",
