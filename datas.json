@@ -42,6 +42,14 @@
       "y": 256
     },
     {
+      "name": "maryland flag",
+      "sources": [
+        "https://i.imgur.com/tLouffP.png"
+      ],
+      "x": 645,
+      "y": 216
+    },
+    {
       "name": "coat of arms for island",
       "sources": [
         "https://i.imgur.com/suZ2I6B.png"
