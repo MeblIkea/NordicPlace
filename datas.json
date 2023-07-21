@@ -2,6 +2,14 @@
   "contact": "Nordics Discord",
   "templates": [
     {
+      "name": "r/nordics sign",
+      "sources": [
+        "https://i.imgur.com/5s8FLDX.png"
+      ],
+      "x": 474,
+      "y": 133
+    },
+    {
       "name": "coat of arms",
       "sources": [
         "https://i.imgur.com/rJ4bBCT.png"
