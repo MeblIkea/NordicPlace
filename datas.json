@@ -10,6 +10,22 @@
       "y": 133
     },
     {
+      "name": "lego benny",
+      "sources": [
+        "https://i.imgur.com/NHB2L3i.png"
+      ],
+      "x": 307,
+      "y": 252
+    },
+    {
+      "name": "john dillermand",
+      "sources": [
+        "https://i.imgur.com/UjOKu1H.png"
+      ],
+      "x": 346,
+      "y": 228
+    },
+    {
       "name": "coat of arms",
       "sources": [
         "https://i.imgur.com/rJ4bBCT.png"
