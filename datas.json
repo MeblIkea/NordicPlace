@@ -4,15 +4,31 @@
     {
       "name": "coat of arms",
       "sources": [
+        "https://i.imgur.com/rJ4bBCT.png"
+      ],
+      "x": 418,
+      "y": 171
+    },
+    {
+      "name": "coat of arms for island",
+      "sources": [
         "https://i.imgur.com/suZ2I6B.png"
       ],
       "x": 482,
       "y": 200
     },
     {
+      "name": "heart",
+      "sources": [
+        "https://i.imgur.com/UApmAZu.png"
+      ],
+      "x": 642,
+      "y": 132
+    },
+    {
       "name": "r/nordics",
       "sources": [
-        "https://i.imgur.com/bQJzJdv.png"
+        "https://github.com/MeblIkea/NordicPlace/blob/main/layer.png?raw=true"
       ],
       "x": 304,
       "y": 132
