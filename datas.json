@@ -41,6 +41,14 @@
       "x": 482,
       "y": 200
     },
+	{
+      "name": "ikea blåhai color corrected",
+      "sources": [
+        "https://i.imgur.com/SxZwzRb.png"
+      ],
+      "x": 536,
+      "y": 299
+    },
     {
       "name": "csv",
       "sources": [
@@ -48,6 +56,14 @@
       ],
       "x": 479,
       "y": 250
+    },
+    {
+      "name": "single moomin",
+      "sources": [
+        "https://i.imgur.com/gBAB0ku.png"
+      ],
+      "x": 596,
+      "y": 175
     },
     {
       "name": "r/nordics",
