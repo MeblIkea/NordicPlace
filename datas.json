@@ -18,6 +18,14 @@
       "y": 200
     },
     {
+      "name": "heart",
+      "sources": [
+        "https://i.imgur.com/UApmAZu.png"
+      ],
+      "x": 642,
+      "y": 132
+    },
+    {
       "name": "r/nordics",
       "sources": [
         "https://github.com/MeblIkea/NordicPlace/blob/main/layer.png?raw=true"
