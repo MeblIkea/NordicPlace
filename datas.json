@@ -33,6 +33,14 @@
       "x": 482,
       "y": 200
     },
+	{
+      "name": "ikea blåhai color corrected",
+      "sources": [
+        "https://i.imgur.com/SxZwzRb.png"
+      ],
+      "x": 536,
+      "y": 299
+    },
     {
       "name": "csv",
       "sources": [
