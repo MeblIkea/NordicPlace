@@ -4,6 +4,14 @@
     {
       "name": "coat of arms",
       "sources": [
+        "https://i.imgur.com/JhSc6Wm.png"
+      ],
+      "x": 420,
+      "y": 172
+    },
+    {
+      "name": "coat of arms for island",
+      "sources": [
         "https://i.imgur.com/suZ2I6B.png"
       ],
       "x": 482,
