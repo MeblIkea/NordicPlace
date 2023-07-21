@@ -33,6 +33,14 @@
       "x": 304,
       "y": 132
     }
+	{
+      "name": "ikea blåhai color corrected",
+      "sources": [
+        "https://i.imgur.com/SxZwzRb.png"
+      ],
+      "x": 304,
+      "y": 132
+    }
   ],
   "whitelist": [],
   "blacklist": []
