@@ -20,7 +20,7 @@
     {
       "name": "swedish guy",
       "sources": [
-        "https://i.imgur.com/Hy2HWwC.png"
+        "https://i.imgur.com/sFwhb9r.png"
       ],
       "x": 612,
       "y": 256
@@ -34,12 +34,12 @@
       "y": 200
     },
     {
-      "name": "heart",
+      "name": "csv",
       "sources": [
-        "https://i.imgur.com/UApmAZu.png"
+        "https://i.imgur.com/CXB7AbO.png"
       ],
-      "x": 642,
-      "y": 132
+      "x": 479,
+      "y": 250
     },
     {
       "name": "r/nordics",
