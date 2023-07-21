@@ -66,6 +66,14 @@
       "y": 292
     },
     {
+      "name": "bear",
+      "sources": [
+        "https://i.imgur.com/VEueFAY.png"
+      ],
+      "x": 449,
+      "y": 273
+    },
+    {
       "name": "csv",
       "sources": [
         "https://i.imgur.com/CXB7AbO.png"
