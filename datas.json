@@ -34,6 +34,14 @@
       "y": 200
     },
     {
+      "name": "csv",
+      "sources": [
+        "https://i.imgur.com/CXB7AbO.png"
+      ],
+      "x": 479,
+      "y": 250
+    },
+    {
       "name": "r/nordics",
       "sources": [
         "https://github.com/MeblIkea/NordicPlace/blob/main/layer.png?raw=true"
