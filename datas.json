@@ -50,6 +50,14 @@
       "y": 175
     },
     {
+      "name": "norway viking rematch",
+      "sources": [
+        "https://i.imgur.com/T3aWqVi.png"
+      ],
+      "x": 324,
+      "y": 113
+    },
+    {
       "name": "r/nordics",
       "sources": [
         "https://github.com/MeblIkea/NordicPlace/blob/main/layer.png?raw=true"
