@@ -146,14 +146,6 @@
       "y": 142
     },
     {
-      "name": "demons",
-      "sources": [
-        "https://i.imgur.com/SAdMEKp.png"
-      ],
-      "x": 1144,
-      "y": 257
-    },
-    {
       "name": "r/nordics",
       "sources": [
         "https://github.com/MeblIkea/NordicPlace/blob/main/layer.png?raw=true"
