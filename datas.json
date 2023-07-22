@@ -50,6 +50,14 @@
       "y": 256
     },
     {
+      "name": "polandball",
+      "sources": [
+        "https://i.imgur.com/5x6x8ga.png"
+      ],
+      "x": 310,
+      "y": 278
+    },
+    {
       "name": "maryland flag",
       "sources": [
         "https://i.imgur.com/tLouffP.png"
