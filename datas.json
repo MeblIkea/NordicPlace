@@ -2,13 +2,133 @@
   "contact": "Nordics Discord",
   "templates": [
     {
+      "name": "r/nordics sign",
+      "sources": [
+        "https://i.imgur.com/5s8FLDX.png"
+      ],
+      "x": 974,
+      "y": 133
+    },
+    {
+      "name": "lego benny",
+      "sources": [
+        "https://i.imgur.com/NHB2L3i.png"
+      ],
+      "x": 810,
+      "y": 252
+    },
+    {
+      "name": "john dillermand",
+      "sources": [
+        "https://i.imgur.com/UjOKu1H.png"
+      ],
+      "x": 846,
+      "y": 228
+    },
+    {
+      "name": "faroe islands",
+      "sources": [
+        "https://i.imgur.com/mDTQ5UQ.png"
+      ],
+      "x": 824,
+      "y": 222
+    },
+    {
+      "name": "coat of arms",
+      "sources": [
+        "https://i.imgur.com/gHcHFh2.png"
+      ],
+      "x": 918,
+      "y": 171
+    },
+    {
+      "name": "swedish guy",
+      "sources": [
+        "https://i.imgur.com/I3vGI1v.png"
+      ],
+      "x": 1112,
+      "y": 256
+    },
+    {
+      "name": "polandball",
+      "sources": [
+        "https://i.imgur.com/5x6x8ga.png"
+      ],
+      "x": 810,
+      "y": 278
+    },
+    {
+      "name": "maryland flag",
+      "sources": [
+        "https://i.imgur.com/tLouffP.png"
+      ],
+      "x": 1145,
+      "y": 216
+    },
+    {
+      "name": "coat of arms for island",
+      "sources": [
+        "https://i.imgur.com/Dew3QlZ.png"
+      ],
+      "x": 982,
+      "y": 200
+    },
+    {
+      "name": "frog",
+      "sources": [
+        "https://i.imgur.com/k7amVNo.png"
+      ],
+      "x": 1070,
+      "y": 292
+    },
+    {
+      "name": "beer",
+      "sources": [
+        "https://i.imgur.com/aYkSmo4.png"
+      ],
+      "x": 932,
+      "y": 270
+    },
+    {
+      "name": "csv",
+      "sources": [
+        "https://i.imgur.com/notbL4h.png"
+      ],
+      "x": 979,
+      "y": 250
+    },
+    {
+      "name": "single moomin",
+      "sources": [
+        "https://i.imgur.com/gBAB0ku.png"
+      ],
+      "x": 1096,
+      "y": 175
+    },
+    {
+      "name": "kaarija",
+      "sources": [
+        "https://i.imgur.com/JjjQOnS.png"
+      ],
+      "x": 1138,
+      "y": 162
+    },
+    {
+      "name": "norway viking rematch version 3",
+      "sources": [
+        "https://i.imgur.com/pI4AbjN.png"
+      ],
+      "x": 824,
+      "y": 142
+    },
+    {
       "name": "r/nordics",
       "sources": [
         "https://github.com/MeblIkea/NordicPlace/blob/main/layer.png?raw=true"
       ],
-      "x": 304,
+      "x": 804,
       "y": 132
-    } 
+    }
   ],
   "whitelist": [],
   "blacklist": []
