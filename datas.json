@@ -177,6 +177,14 @@
       "x": 848,
       "y": 634
     },
+      {
+      "name": "r/norge sunset",
+      "sources": [
+        "https://i.imgur.com/XGptACw.png"
+      ],
+      "x": 835,
+      "y": 633
+    },
     {
       "name": "nordlys",
       "sources": [
@@ -201,6 +209,7 @@
       "x": 804,
       "y": 632
     }
+    
   ],
   "whitelist": [],
   "blacklist": []
