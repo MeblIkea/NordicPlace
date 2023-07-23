@@ -90,6 +90,14 @@
       "y": 716
     },
     {
+      "name": "horse",
+      "sources": [
+        "https://i.imgur.com/NZRgoDv.png"
+      ],
+      "x": 811,
+      "y": 797
+    },
+    {
       "name": "coat of arms for island",
       "sources": [
         "https://i.imgur.com/Dew3QlZ.png"
