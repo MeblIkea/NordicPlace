@@ -162,6 +162,14 @@
       "y": 662
     },
     {
+      "name": "fish",
+      "sources": [
+        "https://i.imgur.com/Swya2GH.png"
+      ],
+      "x": 1054,
+      "y": 132
+    },
+    {
       "name": "norway viking rematch version 4",
       "sources": [
         "https://i.imgur.com/qilOYl2.png"
