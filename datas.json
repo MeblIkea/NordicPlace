@@ -146,20 +146,28 @@
       "y": 662
     },
     {
-      "name": "norway viking",
-      "sources": [
-        "https://i.imgur.com/Lo33e0c.png"
-      ],
-      "x": 890,
-      "y": 640
-    },
-    {
       "name": "norway viking rematch version 4",
       "sources": [
-        "https://i.imgur.com/bfBQgP2.png"
+        "https://i.imgur.com/qilOYl2.png"
       ],
       "x": 824,
       "y": 642
+    },
+    {
+      "name": "norway viking",
+      "sources": [
+        "https://i.imgur.com/C3Ptsc6.png"
+      ],
+      "x": 848,
+      "y": 634
+    },
+    {
+      "name": "nordlys",
+      "sources": [
+        "https://i.imgur.com/hsKO83W.png"
+      ],
+      "x": 835,
+      "y": 633
     },
     {
       "name": "r/nordics",
