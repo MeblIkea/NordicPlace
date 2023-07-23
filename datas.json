@@ -122,6 +122,14 @@
       "y": 770
     },
     {
+      "name": "sausage",
+      "sources": [
+        "https://i.imgur.com/AtBFYSG.png"
+      ],
+      "x": 900,
+      "y": 769
+    },
+    {
       "name": "csv",
       "sources": [
         "https://i.imgur.com/notbL4h.png"
