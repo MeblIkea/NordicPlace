@@ -66,6 +66,14 @@
       "y": 776
     },
     {
+      "name": "ikea",
+      "sources": [
+        "https://i.imgur.com/t6qd3F2.png"
+      ],
+      "x": 1198,
+      "y": 779
+    },
+    {
       "name": "polandball",
       "sources": [
         "https://i.imgur.com/5x6x8ga.png"
@@ -84,10 +92,10 @@
     {
       "name": "horse",
       "sources": [
-        "https://i.imgur.com/mLdX3Jr.png"
+        "https://i.imgur.com/NZRgoDv.png"
       ],
-      "x": 807,
-      "y": 784
+      "x": 811,
+      "y": 797
     },
     {
       "name": "coat of arms for island",
@@ -114,20 +122,20 @@
       "y": 770
     },
     {
-      "name": "sausage",
-      "sources": [
-        "https://i.imgur.com/AtBFYSG.png"
-      ],
-      "x": 900,
-      "y": 769
-    },
-    {
       "name": "csv",
       "sources": [
         "https://i.imgur.com/notbL4h.png"
       ],
       "x": 979,
       "y": 782
+    },
+    {
+      "name": "single moomin",
+      "sources": [
+        "https://i.imgur.com/vwmRovF.png"
+      ],
+      "x": 1096,
+      "y": 673
     },
     {
       "name": "finnish house",
@@ -146,20 +154,20 @@
       "y": 662
     },
     {
-      "name": "norway viking",
-      "sources": [
-        "https://i.imgur.com/Lo33e0c.png"
-      ],
-      "x": 890,
-      "y": 640
-    },
-    {
       "name": "norway viking rematch version 4",
       "sources": [
-        "https://i.imgur.com/bfBQgP2.png"
+        "https://i.imgur.com/qilOYl2.png"
       ],
       "x": 824,
       "y": 642
+    },
+    {
+      "name": "norway viking",
+      "sources": [
+        "https://i.imgur.com/C3Ptsc6.png"
+      ],
+      "x": 836,
+      "y": 635
     },
     {
       "name": "r/nordics",
