@@ -26,6 +26,14 @@
       "y": 804
     },
     {
+      "name": "bluetooth",
+      "sources": [
+        "https://i.imgur.com/XpmRQ5I.png"
+      ],
+      "x": 916,
+      "y": 799
+    },
+    {
       "name": "bolholm",
       "sources": [
         "https://i.imgur.com/DY58bmW.png"
