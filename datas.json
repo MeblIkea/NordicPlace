@@ -194,6 +194,14 @@
       "y": 633
     },
     {
+      "name": "Crown - bottom flag",
+      "sources": [
+        "https://i.imgur.com/E1uVo9U.png"
+      ],
+      "x": 322,
+      "y": 1470
+    }
+    {
       "name": "r/nordics",
       "sources": [
         "https://github.com/MeblIkea/NordicPlace/blob/main/layer.png?raw=true"
