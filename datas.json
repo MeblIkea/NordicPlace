@@ -90,6 +90,14 @@
       "y": 776
     },
     {
+      "name": "coin",
+      "sources": [
+        "https://i.imgur.com/t32Ipya.png"
+      ],
+      "x": 295,
+      "y": 1503
+    },
+    {
       "name": "lego brick",
       "sources": [
         "https://i.imgur.com/1IOdUUa.png"
