@@ -138,14 +138,6 @@
       "y": 700
     },
     {
-      "name": "frog",
-      "sources": [
-        "https://i.imgur.com/k7amVNo.png"
-      ],
-      "x": 1070,
-      "y": 792
-    },
-    {
       "name": "beer",
       "sources": [
         "https://i.imgur.com/aYkSmo4.png"
