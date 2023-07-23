@@ -58,6 +58,14 @@
       "y": 753
     },
     {
+      "name": "demon",
+      "sources": [
+        "https://i.imgur.com/obgTCBh.png"
+      ],
+      "x": 1087,
+      "y": 776
+    },
+    {
       "name": "ikea",
       "sources": [
         "https://i.imgur.com/t6qd3F2.png"
