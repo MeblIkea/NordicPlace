@@ -184,6 +184,13 @@
       ],
       "x": 1638,
       "y": 662
+    }, {
+      "name": "norway viking rematch version 4 - Edited out mountain",
+      "sources": [
+        "https://i.imgur.com/BOa9T5Z.png"
+      ],
+      "x": 1324,
+      "y": 642
     },
     {
       "name": "norway viking",
@@ -198,7 +205,7 @@
       "sources": [
         "https://i.imgur.com/LNqDUrl.png"
       ],
-      "x": 1324,
+      "x": 1320,
       "y": 632
     },
     {
