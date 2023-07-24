@@ -200,6 +200,14 @@
       "x": 1320,
       "y": 632
     },
+      {
+      "name": "south korea flag",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131933464384524469/1133175079241519165/image.png"
+      ],
+      "x": 1708,
+      "y": 1536
+    },
     {
       "name": "r/nordics",
       "sources": [
