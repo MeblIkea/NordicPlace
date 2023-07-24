@@ -146,6 +146,14 @@
       "y": 769
     },
     {
+      "name": "fish",
+      "sources": [
+        "https://i.imgur.com/Swya2GH.png"
+      ],
+      "x": 1051,
+      "y": 633
+    },
+    {
       "name": "finnish house",
       "sources": [
         "https://i.imgur.com/vl1Sr9x.png"
