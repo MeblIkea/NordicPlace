@@ -1,6 +1,14 @@
 {
   "contact": "Nordics Discord",
   "templates": [
+     {
+      "name": "r/norge bear",
+      "sources": [
+        "https://i.imgur.com/5GdMWU2.png"
+      ],
+      "x": 1323,
+      "y": 632
+    },
     {
       "name": "r/nordics sign",
       "sources": [
@@ -184,11 +192,10 @@
       ],
       "x": 1638,
       "y": 662
-    },
-    {
+    }, {
       "name": "norway viking rematch version 4 - Edited out mountain",
       "sources": [
-        "https://i.imgur.com/SaQbonc.png"
+        "https://i.imgur.com/BOa9T5Z.png"
       ],
       "x": 1324,
       "y": 642
@@ -202,11 +209,11 @@
       "y": 634
     },
       {
-      "name": "r/norge sunset",
+      "name": "r/norge sunset ship bear",
       "sources": [
-        "https://i.imgur.com/XGptACw.png"
+        "https://i.imgur.com/ZAnPClD.png"
       ],
-      "x": 1324,
+      "x": 1320,
       "y": 632
     },
     {
