@@ -1,6 +1,14 @@
 {
   "contact": "Nordics Discord",
   "templates": [
+     {
+      "name": "r/norge bear",
+      "sources": [
+        "https://i.imgur.com/5GdMWU2.png"
+      ],
+      "x": 1320,
+      "y": 632
+    },
     {
       "name": "r/nordics sign",
       "sources": [
@@ -203,7 +211,7 @@
       {
       "name": "r/norge sunset ship bear",
       "sources": [
-        "https://i.imgur.com/Af1fcAN.png"
+        "https://i.imgur.com/ZAnPClD.png"
       ],
       "x": 1320,
       "y": 632
