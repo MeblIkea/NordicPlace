@@ -1,5 +1,9 @@
 # Nordic Place
 
+All of this couldn't had be possible without JustAVirus.<br>
+[gg/nordics](https://discord.gg/nordics)<br>
+[Nordics place history](https://docs.google.com/document/d/1GraIgRsG6SohFdjn-0QvfqZH-U67tGpM-EVRopI6Z3M/edit#heading=h.wiwax13akqbh)
+
 ### Place is over, thank you all for participating.
 
 
