@@ -1,7 +1,11 @@
 # Nordic Place
 
+### Place is over, thank you all for participating.
+
+
 ### How to install it?
 
+- Why do you actually needs to install it? It's fin(n)ish!
 - Get <b>[ViolentMonkey](https://violentmonkey.github.io/get-it/)</b> for your browser (works on Firefox), or <b>[TamperMonkey](https://www.tampermonkey.net/)</b> for Chromium based browsers.
 - <b>[Click here](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js)</b> to get the plugin that will let us having the overlay.
 - Refresh your r/place tab (F5 or just the refresh button).
