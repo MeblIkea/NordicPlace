@@ -215,14 +215,24 @@
       ],
       "x": 1304,
       "y": 632
-    }
-    
-  ],
-  "whitelist": [
+    },
     {
-      "name": "America",
-      "url": "https://afip.us/template/template49.json"
+      "name": "United States ROAD TRIP Flag (9:40pm EST 24th)",
+      "sources": [
+        "https://i.imgur.com/pWIsRRX.png"
+      ],
+      "x": 2273,
+      "y": 1780
+    },
+    {
+      "name": "United States SMALLER Flag (15:10 24th)",
+      "sources": [
+        "https://i.imgur.com/jzhGtV2.png"
+      ],
+      "x": 1314,
+      "y": 1097
     }
   ],
+  "whitelist": [],
   "blacklist": []
 }
