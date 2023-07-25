@@ -218,11 +218,6 @@
     }
     
   ],
-  "whitelist": [
-    {
-      "name": "America",
-      "url": "https://afip.us/template/template49.json"
-    }
-  ],
+  "whitelist": [],
   "blacklist": []
 }
