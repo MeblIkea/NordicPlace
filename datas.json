@@ -44,7 +44,7 @@
     {
       "name": "hash",
       "sources": [
-        "https://i.imgur.com/Lq9IywM.png"
+        "https://i.imgur.com/9UpNlep.png"
       ],
       "x": 1326,
       "y": 804
@@ -56,14 +56,6 @@
       ],
       "x": 1416,
       "y": 799
-    },
-    {
-      "name": "bolholm",
-      "sources": [
-        "https://i.imgur.com/DY58bmW.png"
-      ],
-      "x": 1326,
-      "y": 749
     },
     {
       "name": "kaj og andrea",
@@ -100,7 +92,7 @@
     {
       "name": "coat of arms",
       "sources": [
-        "https://i.imgur.com/64ZfwLV.png"
+        "https://i.imgur.com/zlaDNpN.png"
       ],
       "x": 1418,
       "y": 671
@@ -108,7 +100,7 @@
     {
       "name": "kungen",
       "sources": [
-        "https://i.imgur.com/IEiWTZ0.png"
+        "https://i.imgur.com/9LZM0OY.png"
       ],
       "x": 1605,
       "y": 753
@@ -132,7 +124,7 @@
     {
       "name": "maryland flag",
       "sources": [
-        "https://i.imgur.com/UM7QGsS.png"
+        "https://i.imgur.com/DeALflW.png"
       ],
       "x": 1645,
       "y": 716
@@ -170,14 +162,6 @@
       "y": 769
     },
     {
-      "name": "fish",
-      "sources": [
-        "https://i.imgur.com/Swya2GH.png"
-      ],
-      "x": 1551,
-      "y": 633
-    },
-    {
       "name": "finnish house",
       "sources": [
         "https://i.imgur.com/vl1Sr9x.png"
@@ -193,9 +177,9 @@
       "x": 1638,
       "y": 662
     }, {
-      "name": "norway viking rematch version 4 - Edited out mountain",
+      "name": "norway houses",
       "sources": [
-        "https://i.imgur.com/BOa9T5Z.png"
+        "https://i.imgur.com/D7c6DM7.png"
       ],
       "x": 1324,
       "y": 642
@@ -216,13 +200,13 @@
       "x": 1320,
       "y": 632
     },
-    {
-      "name": "Crown - bottom flag",
+      {
+      "name": "south korea flag",
       "sources": [
-        "https://i.imgur.com/E1uVo9U.png"
+        "https://cdn.discordapp.com/attachments/1131933464384524469/1133178235614679140/image.png"
       ],
-      "x": 780,
-      "y": 1447
+      "x": 730,
+      "y": 1430
     },
     {
       "name": "r/nordics",
