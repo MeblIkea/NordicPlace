@@ -1,13 +1,212 @@
 {
   "contact": "Nordics Discord",
   "templates": [
+     {
+      "name": "r/norge bear",
+      "sources": [
+        "https://i.imgur.com/5GdMWU2.png"
+      ],
+      "x": 1323,
+      "y": 632
+    },
+    {
+      "name": "r/nordics sign",
+      "sources": [
+        "https://i.imgur.com/c9yRV2O.png"
+      ],
+      "x": 1474,
+      "y": 633
+    },
+    {
+      "name": "bh",
+      "sources": [
+        "https://i.imgur.com/j5WEICz.png"
+      ],
+      "x": 1344,
+      "y": 768
+    },
+    {
+      "name": "bamsogkyl",
+      "sources": [
+        "https://i.imgur.com/akKKEPT.png"
+      ],
+      "x": 1296,
+      "y": 735
+    },
+    {
+      "name": "lego benny",
+      "sources": [
+        "https://i.imgur.com/EAyGY58.png"
+      ],
+      "x": 1307,
+      "y": 751
+    },
+    {
+      "name": "hash",
+      "sources": [
+        "https://i.imgur.com/9UpNlep.png"
+      ],
+      "x": 1326,
+      "y": 804
+    },
+    {
+      "name": "bluetooth",
+      "sources": [
+        "https://i.imgur.com/XpmRQ5I.png"
+      ],
+      "x": 1416,
+      "y": 799
+    },
+    {
+      "name": "kaj og andrea",
+      "sources": [
+        "https://i.imgur.com/PgUgWtc.png"
+      ],
+      "x": 1397,
+      "y": 753
+    },
+    {
+      "name": "hc andersen",
+      "sources": [
+        "https://i.imgur.com/nJeqiW1.png"
+      ],
+      "x": 1360,
+      "y": 785
+    },
+    {
+      "name": "faroe islands",
+      "sources": [
+        "https://i.imgur.com/5FFkx3T.png"
+      ],
+      "x": 1324,
+      "y": 722
+    },
+    {
+      "name": "faroe islands land",
+      "sources": [
+        "https://i.imgur.com/fSt5Qu0.png"
+      ],
+      "x": 1349,
+      "y": 780
+    },
+    {
+      "name": "coat of arms",
+      "sources": [
+        "https://i.imgur.com/zlaDNpN.png"
+      ],
+      "x": 1418,
+      "y": 671
+    },
+    {
+      "name": "kungen",
+      "sources": [
+        "https://i.imgur.com/9LZM0OY.png"
+      ],
+      "x": 1605,
+      "y": 753
+    },
+    {
+      "name": "demon",
+      "sources": [
+        "https://i.imgur.com/obgTCBh.png"
+      ],
+      "x": 1587,
+      "y": 776
+    },
+    {
+      "name": "lego brick",
+      "sources": [
+        "https://i.imgur.com/1IOdUUa.png"
+      ],
+      "x": 1324,
+      "y": 771
+    },
+    {
+      "name": "maryland flag",
+      "sources": [
+        "https://i.imgur.com/lAp9qD2.png"
+      ],
+      "x": 1645,
+      "y": 716
+    },
+    {
+      "name": "horse",
+      "sources": [
+        "https://i.imgur.com/mLdX3Jr.png"
+      ],
+      "x": 1307,
+      "y": 784
+    },
+    {
+      "name": "coat of arms for island",
+      "sources": [
+        "https://i.imgur.com/NUoobz2.png"
+      ],
+      "x": 1482,
+      "y": 700
+    },
+    {
+      "name": "beer",
+      "sources": [
+        "https://i.imgur.com/L9NDUJS.png"
+      ],
+      "x": 1432,
+      "y": 770
+    },
+    {
+      "name": "sausage",
+      "sources": [
+        "https://i.imgur.com/yatHIbZ.png"
+      ],
+      "x": 1400,
+      "y": 769
+    },
+    {
+      "name": "finnish house",
+      "sources": [
+        "https://i.imgur.com/vl1Sr9x.png"
+      ],
+      "x": 1552,
+      "y": 639
+    },
+    {
+      "name": "kaarija",
+      "sources": [
+        "https://i.imgur.com/JjjQOnS.png"
+      ],
+      "x": 1638,
+      "y": 662
+    }, {
+      "name": "norway houses",
+      "sources": [
+        "https://i.imgur.com/D7c6DM7.png"
+      ],
+      "x": 1324,
+      "y": 642
+    },
+    {
+      "name": "norway viking",
+      "sources": [
+        "https://i.imgur.com/l5OvZCB.png"
+      ],
+      "x": 1348,
+      "y": 634
+    },
+      {
+      "name": "r/norge sunset ship bear",
+      "sources": [
+        "https://i.imgur.com/TOELuVU.png"
+      ],
+      "x": 1320,
+      "y": 632
+    },
     {
       "name": "r/nordics",
       "sources": [
-        "https://i.imgur.com/Ldzw6wd.png"
+        "https://github.com/MeblIkea/NordicPlace/blob/main/layer.png?raw=true"
       ],
-      "x": 1259,
-      "y": 609
+      "x": 1304,
+      "y": 632
     }
     
   ],
